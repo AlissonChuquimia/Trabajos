@@ -3,7 +3,7 @@
 Clasificador de sentimiento (positivo / negativo) para **tuits en español**, de extremo a
 extremo con **scikit-learn**: desde la limpieza del texto hasta la interpretabilidad del modelo.
 
-> Proyecto de portafolio · **Karen Chuquimia** · Ciencia de Datos / NLP
+> **Karen Chuquimia** · Ciencia de Datos / NLP
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![NLP](https://img.shields.io/badge/NLP-Espa%C3%B1ol-green)
 
