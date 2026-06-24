@@ -25,6 +25,6 @@ Repositorio con mis proyectos de ciencia de datos e inteligencia artificial. Cad
 
 ## 🎓 Formación
 
-- **Ingeniería en Sistemas de Información** — UNIFRANZ (2021–2026), egresada (proyecto de grado en defensa).
-- **Bootcamp de Ciencia de Datos** — NAO Digital (2025).
-- **Fundamentos de Python** -Platzi 2025
+- **Ingeniería en Sistemas de Información** - UNIFRANZ (2021–2026).
+- **Bootcamp de Ciencia de Datos** - NAO Digital (2025).
+- **Fundamentos de Python** - Platzi 2025
