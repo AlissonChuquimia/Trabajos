@@ -1,0 +1,28 @@
+# === CV con datos personales (no publicar en repo público) ===
+CV_Karen_Chuquimia*.docx
+*.pdf
+
+# === Datasets grandes (descargar desde la fuente; ver README de cada proyecto) ===
+**/creditcard.csv
+**/oilst_processed.csv
+**/olist_orders_dataset.csv
+**/olist_order_items_dataset.csv
+**/olist_order_payments_dataset.csv
+**/olist_customers_dataset.xlsx
+Proyecto_NLP_Sentimiento_ES/data/*.csv
+
+# === Python / Jupyter ===
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# === Modelos pesados ===
+**/*.keras
+**/*.h5
+**/*.tflite
+
+# === Sistema ===
+.DS_Store
+Thumbs.db

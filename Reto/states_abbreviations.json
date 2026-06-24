@@ -1,0 +1,110 @@
+[
+    {
+        "abbreviation": "AC",
+        "state_name": "Acre"
+    },
+    {
+        "abbreviation": "AL",
+        "state_name": "Alagoas"
+    },
+    {
+        "abbreviation": "AP",
+        "state_name": "Amap\u00e1"
+    },
+    {
+        "abbreviation": "AM",
+        "state_name": "Amazonas"
+    },
+    {
+        "abbreviation": "BA",
+        "state_name": "Bahia"
+    },
+    {
+        "abbreviation": "CE",
+        "state_name": "Cear\u00e1"
+    },
+    {
+        "abbreviation": "DF",
+        "state_name": "Distrito Federal"
+    },
+    {
+        "abbreviation": "ES",
+        "state_name": "Esp\u00edrito Santo"
+    },
+    {
+        "abbreviation": "GO",
+        "state_name": "Goi\u00e1s"
+    },
+    {
+        "abbreviation": "MA",
+        "state_name": "Maranh\u00e3o"
+    },
+    {
+        "abbreviation": "MT",
+        "state_name": "MatoGrosso"
+    },
+    {
+        "abbreviation": "MS",
+        "state_name": "MatoGrosso do Sul"
+    },
+    {
+        "abbreviation": "MG",
+        "state_name": "Minas Gerais"
+    },
+    {
+        "abbreviation": "PA",
+        "state_name": "Par\u00e1"
+    },
+    {
+        "abbreviation": "PB",
+        "state_name": "Para\u00edba"
+    },
+    {
+        "abbreviation": "PR",
+        "state_name": "Paran\u00e1"
+    },
+    {
+        "abbreviation": "PE",
+        "state_name": "Pernambuco"
+    },
+    {
+        "abbreviation": "PI",
+        "state_name": "Piau\u00ed"
+    },
+    {
+        "abbreviation": "RJ",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "abbreviation": "RN",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "abbreviation": "RS",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "abbreviation": "RO",
+        "state_name": "Rond\u00f4nia"
+    },
+    {
+        "abbreviation": "RR",
+        "state_name": "Roraima"
+    },
+    {
+        "abbreviation": "SC",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "abbreviation": "SP",
+        "state_name": "S\u00e3o Paulo"
+    },
+    {
+        "abbreviation": "SE",
+        "state_name": "Sergipe"
+    },
+    {
+        "abbreviation": "TO",
+        "state_name": "Tocantins"
+    }
+]

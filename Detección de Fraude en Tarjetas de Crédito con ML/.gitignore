@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dataset (muy grande para GitHub)
+creditcard.csv
+*.csv

@@ -1,0 +1,13 @@
+# Datos (no se versionan; ver data/LEEME.md para obtenerlos)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
